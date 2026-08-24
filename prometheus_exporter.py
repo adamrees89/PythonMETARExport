@@ -1,4 +1,6 @@
-"""Simple Prometheus exporter that polls `metarGet.py` and exposes metrics.
+"""
+Created by AR with the help of AI.
+Simple Prometheus exporter that polls `metarGet.py` and exposes metrics.
 
 This script depends on the prototype functions in `metarGet.py`:
 - `Airports` dict
