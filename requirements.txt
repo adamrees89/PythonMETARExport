@@ -1,0 +1,5 @@
+prometheus_client
+requests
+python-dateutil
+psychrolib
+pytest
